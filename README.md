@@ -1,5 +1,5 @@
 # README
-complete ruby on rails code
+complete ruby on rails code by Ahmed Gamal
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
